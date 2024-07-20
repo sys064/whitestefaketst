@@ -1,0 +1,33 @@
+return {
+	["PowersWhiteList"] = {
+		Venom = {nil,},
+		JJARC = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		GreenGoblin = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Wolverine = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Hulk = {"", "", "", "SentHerToHelI", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Speed = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Flight = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Batman = {"", "", "", "sqwuba", "kidgkgkg", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		NightWing = {nil, "LidarkStuff", "DearLucifear", "loboasul1424"},
+		MilesMorales = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		CatWoman = {"", "", "", "sqwuba", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Godmode = {"", "Altrobloxdhc20", "LidarkStuff", "Humanabled", "sqwuba", "DearLucifear", "loboasul1424"},
+		ReverseFlash = {"8989Adriana2", "SentHerToHelI", "sqwuba", "kidgkgkg", "Hugogoku202", "glasswake", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		KidProwler = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Juggernaut = {"", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Ghost = {"", "", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		GreenLantern = {"glasswake", "SentHerToHelI", "kidgkgkg", "cbcryptic", "sqwuba", "Humanabled", "Hugogoku202", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		DeathNote = {"", "", "8989Adriana2", "", "sqwuba", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Movement = {nil, "LidarkStuff", "DearLucifear", "loboasul1424"},
+		FastRegen = {"", "", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		FlameOn = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Joker = {"glasswake", "8989Adriana2", "kidgkgkg", "sqwuba", "LidarkStuff", "DearLucifear", "loboasul1424", "Hugogoku202"},
+		["Tools"] = {
+			SizeUpSizeDown = {"Altrobloxdhc20", "sqwuba", "kidgkgkg", "", "Humanabled", "LidarkStuff", "DearLucifear", "loboasul1424", "Hugogoku202"},
+			Escape = {"glasswake", "Hugogoku202", "sqwuba", "Altrobloxdhc20", "Aaron_perez213", "", "Humanabled", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+			Timeskip = {nil, "LidarkStuff", "DearLucifear", "loboasul1424"},
+			InvisibleHit = {nil, "LidarkStuff", "DearLucifear", "loboasul1424"},
+			Vanish = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		}
+	};
+}
